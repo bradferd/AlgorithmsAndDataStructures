@@ -20,6 +20,7 @@
 * Smaller terms don't matter
     * O(n + 10) is the same as O(n)
     * O(1000n + 50) is the same as O(n)
+    * O($n^2$ + 800) is the same as O($n^2$)
 * Arithmetic operations are constant
 * Variable assignment is constant
 * Accessing elements in an array or object is constant
