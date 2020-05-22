@@ -6,3 +6,5 @@ As I found myself on the job market again, I decided to brush up on my interview
 1. [Big O](BigO.md)
 2. [Big O of Objects and Arrays](BigO-ObjectsAndArrays.md)
 3. [Algorithms and Problem Solving Strategy](ProblemSolving.md)
+4. [Problem Solving Patterns](ProblemSolvingPatterns.md)
+5. [Recursion](Recursion.md)
