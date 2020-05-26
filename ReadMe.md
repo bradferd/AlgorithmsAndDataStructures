@@ -8,3 +8,4 @@ As I found myself on the job market again, I decided to brush up on my interview
 3. [Algorithms and Problem Solving Strategy](ProblemSolving.md)
 4. [Problem Solving Patterns](ProblemSolvingPatterns.md)
 5. [Recursion](Recursion.md)
+6. [Search Algorithms](searchAlgorithms.md)
