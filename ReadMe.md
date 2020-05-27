@@ -9,3 +9,5 @@ As I found myself on the job market again, I decided to brush up on my interview
 4. [Problem Solving Patterns](ProblemSolvingPatterns.md)
 5. [Recursion](Recursion.md)
 6. [Search Algorithms](searchAlgorithms.md)
+7. [Sorting Algorithms](sortingAlgorithms.md)
+8. [Bubble Sort](bubbleSort.md)
