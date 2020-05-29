@@ -12,3 +12,4 @@ As I found myself on the job market again, I decided to brush up on my interview
 7. [Sorting Algorithms](sortingAlgorithms.md)
 8. [Bubble Sort](bubbleSort.md)
 9. [Selection Sort](selectionSort.md)
+10. [Insertion Sort](insertionSort.md)

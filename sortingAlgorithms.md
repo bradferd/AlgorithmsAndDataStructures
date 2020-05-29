@@ -26,4 +26,9 @@ Sorting is the process of rearranding the items in a collection so that the item
     [6, 4, 15, 10].sort(numberCompare);
 </pre>
 
+## Sorting is fundamental!
+* [Bubble sort](bubbleSort.md), [selection sort](selectionSort.md), and [insertion sort](insertionSort.md) are all roughly equivelant.
+* All have average time complexities that are quadratic.
+* We can do better... but we need more complex algorithms!
+
 ## Next: [Bubble Sort](bubbleSort.md)
