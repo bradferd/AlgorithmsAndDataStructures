@@ -28,7 +28,10 @@ Sorting is the process of rearranding the items in a collection so that the item
 
 ## Sorting is fundamental!
 * [Bubble sort](bubbleSort.md), [selection sort](selectionSort.md), and [insertion sort](insertionSort.md) are all roughly equivelant.
-* All have average time complexities that are quadratic.
-* We can do better... but we need more complex algorithms!
+  * All have average time complexities that are quadratic.
+  * These algorithms don't scale very well
+* There are sorting algorithms that can improve time complexity from O($n^2$) to O(n logn)
+  * Tradeoff between efficient algorithms and simplicity
+  * 
 
 ## Next: [Bubble Sort](bubbleSort.md)
