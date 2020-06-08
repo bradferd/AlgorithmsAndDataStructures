@@ -14,3 +14,4 @@ As I found myself on the job market again, I decided to brush up on my interview
 9. [Selection Sort](selectionSort.md)
 10. [Insertion Sort](insertionSort.md)
 11. [Merge Sort](mergeSort.md)
+12. [Quick Sort](quickSort.md)
